@@ -32,7 +32,7 @@
     {
         "id_libro": 7,
         "autor": "Laura",
-        "nombre_libro": "Python en la pr\u00e1ctica"
+        "nombre_libro": "Python en la practica"
     },
     {
         "id_libro": 8,
@@ -87,7 +87,7 @@
     {
         "id_libro": 18,
         "autor": "Alberto",
-        "nombre_libro": "Colorear figuras geom\u00e9tricas"
+        "nombre_libro": "Colorear figuras geometricas"
     },
     {
         "id_libro": 19,
