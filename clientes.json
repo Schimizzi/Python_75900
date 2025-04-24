@@ -1,0 +1,122 @@
+[
+    {
+        "socio": 1,
+        "nombre": "Claudio",
+        "dni": 29000999,
+        "telefono": 11336699
+    },
+    {
+        "socio": 2,
+        "nombre": "Pepe",
+        "dni": 29000888,
+        "telefono": 11226699
+    },
+    {
+        "socio": 3,
+        "nombre": "Ana",
+        "dni": 29000777,
+        "telefono": 11116699
+    },
+    {
+        "socio": 4,
+        "nombre": "Luis",
+        "dni": 29000666,
+        "telefono": 11006699
+    },
+    {
+        "socio": 5,
+        "nombre": "Maria",
+        "dni": 29000555,
+        "telefono": 10996699
+    },
+    {
+        "socio": 6,
+        "nombre": "Jose",
+        "dni": 29000444,
+        "telefono": 10886699
+    },
+    {
+        "socio": 7,
+        "nombre": "Laura",
+        "dni": 29000333,
+        "telefono": 10776699
+    },
+    {
+        "socio": 8,
+        "nombre": "Carlos",
+        "dni": 29000222,
+        "telefono": 10666699
+    },
+    {
+        "socio": 9,
+        "nombre": "Marta",
+        "dni": 29000111,
+        "telefono": 10556699
+    },
+    {
+        "socio": 10,
+        "nombre": "Jorge",
+        "dni": 29000000,
+        "telefono": 10446699
+    },
+    {
+        "socio": 11,
+        "nombre": "Sofia",
+        "dni": 28999999,
+        "telefono": 10336699
+    },
+    {
+        "socio": 12,
+        "nombre": "Diego",
+        "dni": 28999888,
+        "telefono": 10226699
+    },
+    {
+        "socio": 13,
+        "nombre": "Lucia",
+        "dni": 28999777,
+        "telefono": 10116699
+    },
+    {
+        "socio": 14,
+        "nombre": "Raul",
+        "dni": 28999666,
+        "telefono": 10006699
+    },
+    {
+        "socio": 15,
+        "nombre": "Elena",
+        "dni": 28999555,
+        "telefono": 9996699
+    },
+    {
+        "socio": 16,
+        "nombre": "Fernando",
+        "dni": 28999444,
+        "telefono": 9886699
+    },
+    {
+        "socio": 17,
+        "nombre": "Isabel",
+        "dni": 28999333,
+        "telefono": 9776699
+    },
+    {
+        "socio": 18,
+        "nombre": "Alberto",
+        "dni": 28999222,
+        "telefono": 9666699
+    },
+    {
+        "socio": 19,
+        "nombre": "Patricia",
+        "dni": 28999111,
+        "telefono": 9556699
+    },
+    {
+        "socio": 20,
+        "nombre": "Ricardo",
+        "dni": 28999000,
+        "telefono": 9446699
+    }
+]
