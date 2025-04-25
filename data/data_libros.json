@@ -1,0 +1,26 @@
+[
+    {
+        "id_libro": 1,
+        "autor": "Pedro",
+        "nombre_libro": "Aprendiendo Python",
+        "esta_prestado": false
+    },
+    {
+        "id_libro": 2,
+        "autor": "Pablo",
+        "nombre_libro": "Aprende a colorear desde cero",
+        "esta_prestado": true
+    },
+    {
+        "id_libro": 3,
+        "autor": "Ana",
+        "nombre_libro": "Python para principiantes",
+        "esta_prestado": false
+    },
+    {
+        "id_libro": 4,
+        "autor": "Luis",
+        "nombre_libro": "Colores y formas",
+        "esta_prestado": true
+    }
+]

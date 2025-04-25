@@ -1,0 +1,44 @@
+[
+    {
+        "socio": 1,
+        "nombre": "Claudio",
+        "dni": 29000999,
+        "telefono": 11336699
+    },
+    {
+        "socio": 2,
+        "nombre": "Pepe",
+        "dni": 29000888,
+        "telefono": 11226699
+    },
+    {
+        "socio": 3,
+        "nombre": "Ana",
+        "dni": 29000777,
+        "telefono": 11116699
+    },
+    {
+        "socio": 4,
+        "nombre": "Luis",
+        "dni": 29000666,
+        "telefono": 11006699
+    },
+    {
+        "socio": 5,
+        "nombre": "Maria",
+        "dni": 29000555,
+        "telefono": 10996699
+    },
+    {
+        "socio": 23,
+        "nombre": "Claudio",
+        "dni": 29000999,
+        "telefono": 11336699
+    },
+    {
+        "socio": 7,
+        "nombre": "JuanJo",
+        "dni": 29999000,
+        "telefono": 11333444
+    }
+]
