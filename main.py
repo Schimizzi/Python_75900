@@ -5,7 +5,7 @@ from libro import Libro
 from libreria import Libreria
 
 
-if __name__ == '__main':
+if __name__ == '__main__':
     libreria = Libreria()
     
     # Cargo los clientes desde JSON en la bd de la libreria
