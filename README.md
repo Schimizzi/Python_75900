@@ -4,13 +4,13 @@ Este proyecto implementa un sistema básico para gestionar libros y clientes de 
 
 ## Descripción
 
-El sistema se compone de las siguientes clases[cite: 1]:
+El sistema se compone de las siguientes clases:
 
-* **`Libro`**: Representa un libro con atributos como ID, autor, nombre y estado (vendido/disponible)[cite: 2].
+* **`Libro`**: Representa un libro con atributos como ID, autor, nombre y estado (vendido/disponible).
 * **`Cliente`**: Representa un cliente con atributos como número de socio, nombre, DNI y teléfono.
 * **`Libreria`**: Clase principal que gestiona las colecciones de libros y clientes. Ofrece métodos para agregar y quitar elementos, así como para imprimirlos y guardar clientes en JSON.
 
-El script `main.py` sirve como punto de entrada de ejemplo, mostrando cómo inicializar el sistema, cargar datos iniciales desde archivos JSON (si existen), realizar operaciones de ejemplo (agregar/quitar libros y clientes) y guardar los datos de los clientes actualizados.
+El script `main.py` sirve como punto de entrada de ejemplo, mostrando cómo inicializar el sistema, cargar datos iniciales desde archivos JSON, realizar operaciones de ejemplo (agregar/quitar libros y clientes) y guardar los datos de los clientes actualizados.
 
 ## Características
 
