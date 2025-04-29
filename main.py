@@ -1,8 +1,8 @@
 import json
 import os
-from cliente import Cliente
-from libro import Libro
-from libreria import Libreria
+from clases.cliente import Cliente
+from clases.libro import Libro
+from clases.libreria import Libreria
 
 
 if __name__ == '__main__':
