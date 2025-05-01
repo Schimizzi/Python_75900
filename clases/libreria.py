@@ -43,7 +43,7 @@ class Libreria:
             print(cliente)
 
     def guardar_cliente_en_json(self, cliente):
-        ruta_archivo = os.path.join('data', 'data_clientes.json')  # [!] MODIFICAR el path si es necesario
+        ruta_archivo = os.path.join('..', 'data_clientes.json')  # [!] MODIFICAR el path si es necesario
         try:
             with open(ruta_archivo, 'r') as archivo:
                 datos_clientes = json.load(archivo)
